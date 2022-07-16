@@ -1,7 +1,7 @@
-## 👋 Hi, I’m @ya-johnson
-### 👀 I’m  a Web Developer
+# 👋 Hi, I’m @ya-johnson
+## 👀 I’m  a Web Developer
 
-check out my [Web Dev Resources](https://github.com/ya-johnson/web-dev-resources)
+### check out my [Web Dev Resources](https://github.com/ya-johnson/web-dev-resources)
 
 
 <!---
