@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ya-johnson
-- 👀 I’m  a Web Developer
+##👋 Hi, I’m @ya-johnson
+### 👀 I’m  a Web Developer
 
 
 <!---
